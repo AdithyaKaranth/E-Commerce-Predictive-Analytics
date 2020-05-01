@@ -1,1 +1,1 @@
-# E-Commerce-Predictive-Analytics
+# E-commerce-Inventory-Management-by-Forecasting-Sales.
